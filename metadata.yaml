@@ -1,5 +1,8 @@
 _repo: Victory--An-Island-Tale_6378
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6378#Victory--An-Island-Tale
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
